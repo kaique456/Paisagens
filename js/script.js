@@ -6,6 +6,7 @@ function scrollLef() {
 
 function scrollRight() {
     imageSlider.scrollLeft += 200;
+    
 }
 
 
